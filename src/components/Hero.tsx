@@ -20,7 +20,7 @@ const Hero = ({ onSearch }: HeroProps) => {
       <div className="container relative px-4 py-16 md:py-24">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="mb-4 text-4xl font-bold tracking-tight text-foreground md:text-5xl">
-            Peça seu lanche favorito
+            Peça seu lanche favorito!
           </h2>
           <p className="mb-8 text-lg text-muted-foreground">
             Entrega rápida e comida deliciosa na sua casa
